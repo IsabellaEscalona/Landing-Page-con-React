@@ -7,16 +7,6 @@ import rigoImage from "../../img/rigo-baby.jpg";
 const Home = () => {
 	return (
 		<div className="text-center">
-<<<<<<< HEAD
-
-
-			<div className="container mt-4">
-				<Jumbotron />
-			</div>
-		</>
-
-
-=======
             
 
 			<h1 className="text-center mt-5">Hello Rigo!</h1>
@@ -32,7 +22,6 @@ const Home = () => {
 				love!
 			</p>
 		</div>
->>>>>>> 5d2aaca0c120c9a5cf3672d83e9930fdff6ec67a
 	);
 };
 
