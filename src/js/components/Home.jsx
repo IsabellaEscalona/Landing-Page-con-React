@@ -15,32 +15,32 @@ const Home = () => {
 				<Jumbotron />
 
 			</div>
-			<div className="container ">
+			<div className="container">
 				<div className="row">
-					<div className="col-md-3 col-sm-10">
+					<div className="col-md-3">
 						<Card />
 					</div>
-					<div className="col-md-3 col-sm-10">
+					<div className="col-md-3">
 						<Card />
 					</div>
-					<div className="col-md-3 col-sm-10">
+					<div className="col-md-3">
 						<Card />
 					</div>
-					<div className="col-md-3 col-sm-10">
+					<div className="col-md-3">
 						<Card />
 					</div>
 				</div>
 				<div className="row">
-					<div className="col-md-3 col-sm-10">
+					<div className="col-md-3">
 						<Card />
 					</div>
-					<div className="col-md-3 col-sm-10">
+					<div className="col-md-3">
 						<Card />
 					</div>
-					<div className="col-md-3 col-sm-10">
+					<div className="col-md-3">
 						<Card />
 					</div>
-					<div className="col-md-3 col-sm-10">
+					<div className="col-md-3">
 						<Card />
 					</div>
 				</div>
