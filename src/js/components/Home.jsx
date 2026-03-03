@@ -54,4 +54,5 @@ const Home = () => {
 	);
 };
 
+/* Cuando se hace pull la C se pone en minuscula */
 export default Home;
